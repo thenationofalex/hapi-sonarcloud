@@ -7,11 +7,13 @@ const server = Hapi.server({
   host: 'localhost'
 })
 
+const password = "asdasd"
+
 server.route({
   method: 'GET',
   path: '/',
   handler: (req, h) => {
-    return { hapi: 'hapi' }
+    return { hapi: 'hapi', password }
   }
 })
 

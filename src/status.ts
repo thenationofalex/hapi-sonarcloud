@@ -1,3 +1,3 @@
-export const Status = (s: string) => { 
+export const Status = (s: string) => {
 	return { status: s }
 }

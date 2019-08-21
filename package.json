@@ -4,7 +4,7 @@
   "description": "",
   "scripts": {
     "start": "ts-node src/index.ts",
-    "test": "jest --coverage"
+    "test": "jest --coverage && cp coverage/lcov.info ."
   },
   "author": "alex@ahm",
   "license": "ISC",
