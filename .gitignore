@@ -7,4 +7,4 @@ typings/
 *.tsbuildinfo
 .npm
 .env
-coverage/
+coverage/lcov-report
