@@ -1,5 +1,5 @@
 TN:
-SF:/Users/alexbest/projects/sonarqube-poc/src/index.ts
+/src/index.ts
 FN:15,(anonymous_6)
 FN:23,(anonymous_7)
 FN:29,(anonymous_8)
@@ -33,7 +33,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:/Users/alexbest/projects/sonarqube-poc/src/status.ts
+/src/status.ts
 FN:1,(anonymous_0)
 FNF:1
 FNH:0
@@ -46,7 +46,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:/Users/alexbest/projects/sonarqube-poc/src/version.ts
+/src/version.ts
 FN:1,(anonymous_0)
 FNF:1
 FNH:1

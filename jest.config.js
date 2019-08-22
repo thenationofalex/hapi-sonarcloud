@@ -5,4 +5,5 @@ module.exports = {
     "transform": {
       "^.+\\.tsx?$": "ts-jest"
     },
+    "testResultsProcessor": "jest-sonar-reporter"
   }

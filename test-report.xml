@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testExecutions version="1">
+/src/index.test.ts">
+    <testCase name="should success with server connection" duration="10"/>
+  </file>
+/src/version.test.ts">
+    <testCase name="Version route" duration="2"/>
+  </file>
+</testExecutions>
