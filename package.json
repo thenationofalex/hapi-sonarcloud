@@ -4,7 +4,7 @@
   "description": "",
   "scripts": {
     "start": "ts-node src/index.ts",
-    "test": "jest --coverage && sed -i -e 's/.*sonarqube-poc//' coverage/lcov.info && sed -i -e 's/.*sonarqube-poc//' test-report.xml"
+    "test": "jest --coverage && sed -i -e 's/.*sonarqube-poc//' coverage/clover.xml && sed -i -e 's/.*sonarqube-poc//' coverage/lcov.info && sed -i -e 's/.*sonarqube-poc//' test-report.xml"
   },
   "author": "alex@ahm",
   "license": "ISC",
